@@ -40,7 +40,7 @@ exclude:
   - gulpfile.js
   - sleek.jpg
 
-include: ['_pages']
+include: ['_pages', 'googlec36c3dc9ac99d43c.html']
 permalink: /:title/
 
 compress_html:
